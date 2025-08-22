@@ -1,4 +1,6 @@
-# 👋 Hi ther## 👨‍💻 About Me
+# 👋 Hi there
+
+## 👨‍💻 About Me
 
 I am a Computer Engineering student at Cairo University, passionate about building secure and efficient web applications, as well as exploring the realms of Machine Learning and Deep Learning. Through intensive training programs at Cairo University's Computer Engineering Department, I have honed my skills in modern web technologies, collaborative development practices, machine learning algorithms, and deep learning frameworks.
 
