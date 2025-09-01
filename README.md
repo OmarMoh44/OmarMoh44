@@ -25,8 +25,8 @@ During my studies, I've completed coursework in Object Oriented Programming, Dat
 
 ### Backend Development
 
-- **Core:** Node.js, Express.js, RESTful APIs, GraphQL, Socket.IO
-- **Databases:** PostgreSQL, MongoDB, Redis, Prisma ORM
+- **Core:** Node.js, Express.js, Spring Boot, RESTful APIs, GraphQL, Socket.IO
+- **Databases:** PostgreSQL, MongoDB, Redis, Prisma ORM, Spring Data JPA / Hibernate (ORM)
 
 ### Frontend Development
 
@@ -52,7 +52,7 @@ During my studies, I've completed coursework in Object Oriented Programming, Dat
 
 ## 🚀 SW Projects
 
-### 🔹 [Social Network Backend (Whisper)](https://github.com/GramBelleg/Whisper_BackEnd)
+### 🔹 [Whisper Backend](https://github.com/GramBelleg/Whisper_BackEnd)
 
 A Telegram-inspired real-time messaging system featuring group chats and channels.
 
@@ -64,6 +64,20 @@ A Telegram-inspired real-time messaging system featuring group chats and channel
 A comprehensive online shopping platform with modern features.
 
 - **Tech Stack:** React, Express.js, GraphQL API, Prisma ORM, PostgreSQL, JWT
+- **Features:** Product listings, shopping cart, user authentication
+
+### 🔹 [Care Track](https://github.com/OmarMoh44/CareTrack)
+
+Developed Care Track, a healthcare management system with a Spring Boot backend and a Flutter mobile application.
+
+- **Tech Stack:** Flutter, Spring Boot, Spring Data JPA/Hibernate(ORM), PostgreSQL, Spring Security(JWT), REST APIs.
+- **Features:** appointment booking, medical record management, doctor and patient authentication, and user profile management.
+
+### 🔹 [E-Commerce Backend API](https://github.com/OmarMoh44/E-commerce_demo)
+
+Developed a backend for an E-commerce application using Java and Spring Boot.
+
+- **Tech Stack:** Spring Boot, Spring Data JPA / Hibernate (ORM), PostgreSQL, Spring Security (JWT), Redis, REST APIs.
 - **Features:** Product listings, shopping cart, user authentication
 
 ### 🔹 [Missing Things](https://github.com/OmarMoh44/missing-things)
