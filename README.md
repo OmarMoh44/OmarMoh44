@@ -26,7 +26,7 @@ During my studies, I've completed coursework in Object Oriented Programming, Dat
 ### Backend Development
 
 - **Core:** Node.js, Express.js, Spring Boot, RESTful APIs, GraphQL, Socket.IO
-- **Databases:** PostgreSQL, MongoDB, Redis, Prisma ORM, Spring Data JPA / Hibernate (ORM)
+- **Databases & Caching:** PostgreSQL, MongoDB, Redis, Prisma ORM, Spring Data JPA / Hibernate (ORM)
 
 ### Frontend Development
 
